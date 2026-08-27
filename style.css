@@ -6,7 +6,7 @@ body {
   background-color: #f4f4f4;
   color: #333;
   header {
-    background: #4CAF50;
+    background: #ffb8da;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -28,7 +28,7 @@ section {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
   h2 {
-    color: #4CAF50;
+    color: #ffb8da;
   }
   .project {
     margin-bottom: 20px;
@@ -49,3 +49,6 @@ section {
     color: white;
     margin-top: 20px;
   }
+footer a { 
+  color: #8c34eb;
+}
